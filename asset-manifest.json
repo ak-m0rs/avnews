@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/avnews/static/css/main.a0568af3.css",
+    "main.js": "/avnews/static/js/main.b6814f21.js",
+    "static/js/787.b408955a.chunk.js": "/avnews/static/js/787.b408955a.chunk.js",
+    "index.html": "/avnews/index.html",
+    "main.a0568af3.css.map": "/avnews/static/css/main.a0568af3.css.map",
+    "main.b6814f21.js.map": "/avnews/static/js/main.b6814f21.js.map",
+    "787.b408955a.chunk.js.map": "/avnews/static/js/787.b408955a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0568af3.css",
+    "static/js/main.b6814f21.js"
+  ]
+}
